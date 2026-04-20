@@ -52,3 +52,31 @@ P3-1-ai-app-threat-model/
 │   └── logging-monitoring.md
 └── templates/
     └── threat-model-template.md
+```
+
+## Planned Skills Focus
+As work begins on this repository, it is intended to support development in areas such as:
+- threat modeling
+- AI security analysis
+- application security thinking
+- architecture review
+- security documentation
+- mitigation planning
+
+## Why This Project Matters
+AI-enabled applications introduce new security considerations beyond traditional software risks. Depending on the architecture, these may include issues related to trust boundaries, model interactions, insecure prompt handling, data exposure, unsafe tool access, and weak control over connected systems.
+
+This project is planned as a future effort to better understand and document those security concerns in a structured way.
+
+## Current Status
+This repository is currently in the planning stage.
+
+No implementation work, diagrams, or completed threat-model artifacts have been added yet. Content will be updated over time as work begins on the project.
+
+## Related Portfolio
+This repository is planned as part of:
+
+- `Cybersecurity-Portfolio3-AI-Security`
+
+## Author
+Created and maintained by kvatnynito as part of a planned AI security portfolio focused on future hands-on learning and structured security analysis.
